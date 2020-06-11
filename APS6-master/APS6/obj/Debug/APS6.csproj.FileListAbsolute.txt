@@ -1,0 +1,25 @@
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\bin\Debug\APS6.exe.config
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\bin\Debug\APS6.exe
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\bin\Debug\APS6.pdb
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.csprojAssemblyReference.cache
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.Cadastro.resources
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.Etapas.resources
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.inicial.resources
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.Properties.Resources.resources
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.csproj.GenerateResource.cache
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.exe
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.pdb
+C:\Users\yxi4rc\Desktop\APS6-master\APS6\obj\Debug\APS6.view.Principal.resources
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\bin\Debug\APS6.exe.config
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\bin\Debug\APS6.exe
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\bin\Debug\APS6.pdb
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.csprojAssemblyReference.cache
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.Cadastro.resources
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.Etapas.resources
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.inicial.resources
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.Properties.Resources.resources
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.view.Principal.resources
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.csproj.GenerateResource.cache
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.exe
+C:\Users\David\Desktop\trabalhos faculdade\APS6-master\APS6\obj\Debug\APS6.pdb
